@@ -158,4 +158,4 @@ Borra la carpeta. No escribe en el registro ni deja servicios en ejecución.
 
 ---
 
-*Emulador de PS5 para PC · Actualizado 2026-11-15 · Compartido bajo licencia MIT*
+*Emulador de PS5 para PC · Actualizado 2026-11-16 · Compartido bajo licencia MIT*
